@@ -1,0 +1,15 @@
+<Page loaded="onLoaded">
+    <StackLayout>
+        <!-- title -->
+        <Label text="Contact Us" class="title" />
+
+        <!-- data submission -->
+        <Label textWrap="true" text="Contact us by submitting a message below." />
+
+        <TextField id="subject" hint="Enter a subject..." />
+        <TextView id="message" hint="Enter a message..." />
+
+        <Button text="Submit" tap="onTap" />
+
+    </StackLayout>
+</Page>

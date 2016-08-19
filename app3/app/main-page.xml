@@ -1,0 +1,7 @@
+<Page>
+    <StackLayout>
+        <Label text="Welcome to Tekmo!" class="title" />
+
+        <Button id="contact-us" text="Contact Us" tap="onContactUsTap" />
+    </StackLayout>
+</Page>

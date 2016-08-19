@@ -1,0 +1,27 @@
+﻿/* Give text some room around the edges */
+Label {
+    margin-left: 10;
+    margin-right: 10;
+    margin-bottom: 10;
+}
+
+/* Make the title stand out */
+.title {
+    font-size: 30;
+    horizontal-align: center;
+    margin: 20;
+}
+
+/* Sub titles are a bit smaller */
+.sub-title {
+    font-size: 20;
+}
+
+
+TextField, TextView {
+    margin: 10;
+    font-size: 16;
+}
+TextField {
+    margin-left: 15;
+}

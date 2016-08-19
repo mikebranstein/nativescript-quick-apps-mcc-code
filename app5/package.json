@@ -1,0 +1,17 @@
+{
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "readme": "NativeScript Application",
+  "repository": "<fill-your-repository-here>",
+  "nativescript": {
+    "id": "org.nativescript.app5",
+    "tns-ios": {
+      "version": "2.2.1"
+    }
+  },
+  "dependencies": {
+    "nativescript-platform": "^1.0.1",
+    "nativescript-texttospeech": "^1.1.1",
+    "tns-core-modules": "2.2.1"
+  }
+}
